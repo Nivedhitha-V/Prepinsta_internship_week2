@@ -12,7 +12,7 @@ This Python script implements the text-based puzzle game Frog Leap. The game pit
 
 ## Playing Instructions
 
-1. Execute the Python script provided (`main.py`).
+1. Execute the Python script provided (`week_2_prepinsta.py`).
 2. The first screen shows the positions of Green ('G') and Brown ('B') frogs, as well as an empty leaf designated by '-'.
 3. Enter the frog's location to move or press 'q' to exit the game.
 4. Input moves by following the suggestions. After each move, the script will update the game state.
@@ -22,7 +22,7 @@ This Python script implements the text-based puzzle game Frog Leap. The game pit
 
 - Make sure Python is installed on your PC.
 - Launch a command prompt or terminal.
-- Go to the directory that contains the script (`main.py`).
+- Go to the directory that contains the script (`week_2_prepinsta.py`).
 - Execute the script using the following command.
 - Follow the on-screen instructions to play the game.
 ## Example
